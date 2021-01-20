@@ -1,6 +1,5 @@
 # Hey! I'm Nova, welcome to my github!
-### Connect with me on LinkedIn! www.linkedin.com/in/nova-obrien
-You can find me on [![LinkedIn][1.2]][1]
+### Connect with me at www.linkedin.com/in/nova-obrien 
 
 
 
