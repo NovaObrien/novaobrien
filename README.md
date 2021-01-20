@@ -1,7 +1,15 @@
+# Hey! I'm Nova, welcome to my github!
 ### Connect with me on LinkedIn! www.linkedin.com/in/nova-obrien
+You can find me on [![LinkedIn][1.2]][1]
+
+
+
+
 
 <!--
-**NovaObrien/novaobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NovaObrien/novaobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[1]: https://www.linkedin.com/in/nova-obrien/
 
 Here are some ideas to get you started:
 
