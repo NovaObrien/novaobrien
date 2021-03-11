@@ -1,6 +1,6 @@
 # Hey! I'm Nova, welcome to my github!
 ### Connect with me at www.linkedin.com/in/nova-obrien 
-
+### Check out my Portfolio! https://novaobrien.github.io/portfolio/#/
 
 
 
