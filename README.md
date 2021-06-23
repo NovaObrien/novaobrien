@@ -2,6 +2,8 @@
 ### Connect with me at www.linkedin.com/in/nova-obrien 
 ### Check out my Portfolio! https://novaobrien.github.io/portfolio/#/
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=novaobrien)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
